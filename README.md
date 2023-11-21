@@ -54,6 +54,6 @@ We welcome contributions to this repository. To contribute, please follow these 
 2. Make your changes to the forked repository.
 3. Create a pull request from your forked repository to the original repository.
 
-### License
+### Deployment
 
-This repository is licensed under the MIT License.
+https://mohit-insta-react.vercel.app/.
